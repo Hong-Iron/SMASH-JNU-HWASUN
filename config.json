@@ -20,5 +20,68 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "교육복합동(M6)": {
+      "style": "stone",
+      "wall": "#e2e2df",
+      "glass": "#4c6a6a",
+      "frame": "#a9adb0"
+    },
+    "융합연구동(M2)": {
+      "style": "brick",
+      "wall": "#b2694a",
+      "glass": "#5f7d8e",
+      "frame": "#b9bcbf"
+    },
+    "국가면역치료혁신센터": {
+      "style": "stone",
+      "wall": "#e6e6e2",
+      "glass": "#5c8a84",
+      "frame": "#cfd2d2"
+    },
+    "면역치료혁신센터": {
+      "style": "stone",
+      "wall": "#e6e6e2",
+      "glass": "#5c8a84",
+      "frame": "#cfd2d2"
+    },
+    "남곡관 교육정보동(M1)": {
+      "style": "ribbon",
+      "wall": "#c2c3cb",
+      "glass": "#5e7a90",
+      "frame": "#a57d68"
+    },
+    "기초연구동(M5)": {
+      "style": "ribbon",
+      "wall": "#c4c6c6",
+      "glass": "#55697a",
+      "frame": "#9a9e9e"
+    },
+    "기초연구동(M4)": {
+      "style": "ribbon",
+      "wall": "#c4c6c6",
+      "glass": "#55697a",
+      "frame": "#9a9e9e"
+    },
+    "동물실험사(M3)": {
+      "style": "brick",
+      "wall": "#b0704f",
+      "glass": "#4f5e66",
+      "frame": "#d6d0c6"
+    },
+    "생활관 청진학사": {
+      "style": "dorm",
+      "wall": "#e3e5e6",
+      "glass": "#4f6070",
+      "frame": "#d98a3a"
+    },
+    "여미샘": {
+      "style": "concrete",
+      "wall": "#c5c3c0",
+      "glass": "#5a7080",
+      "frame": "#a8a6a2"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
